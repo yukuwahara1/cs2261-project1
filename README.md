@@ -1,5 +1,5 @@
 # cs2261-project1
-rock-paper-scissors game 
+hunter-bear-ninja game
 
   The first project for Objected-Oriented Programming (Java) was making 
 hunter-bear-ninja game that was same as rock-paper-scissors game in essence.
